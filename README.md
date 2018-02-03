@@ -1,4 +1,7 @@
 # PPLcoin
+
+Initial Concept v1.0
+
 Bring Back Humanity Without Greed.  Changing Human Greed Into Working Together.
 
 A Peer to Peer ( P2P) HashGraph BlockChain Crypto Currency.

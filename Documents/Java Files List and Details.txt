@@ -1,13 +1,13 @@
 To Be Updated.
 
 
-SHA256.Encryption.js
+SHA256.Encryption.java
 Encrypts Data into SHA256
 
 
-Encrypt.Decrypt.File.js
+Encrypt.Decrypt.File.java
 Encrypts and Decrypts File Data so as unreadable by users.
 
 
-Core.js
+Core.java
 The Core Engine of the software.

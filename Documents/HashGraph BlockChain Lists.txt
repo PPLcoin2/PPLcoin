@@ -1,0 +1,7 @@
+EACH HashGraph BlockChain is Encrypted and unreadable.
+(see Java: File Encryption Code File)
+
+
+Coin HashGraph BlockChain
+Loan Lender Ledger HashGraph BlockChain
+Work HashGraph Blockchain

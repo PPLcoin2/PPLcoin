@@ -26,6 +26,7 @@ Lenders and Loaners of COINS to other Wallets can Earn an EXTRA 1000 per week.
 Loaners earn a small amount of interest from the Lender on each weekly repayment.
 Loaners and Lenders, loaned and earnt COINS also reset every week.
 YET. Loan amounts continue each week as do repayment amounts agreed.
+A Wallets worthiness is obtained on records of repayments made on previous loans.
 
 This using a HashGraph BlockChain Ledger.
 
@@ -45,5 +46,6 @@ Else outright purchase may be used instead.
 Each Business has it's own WalletID.
 EACH BUSINESS MAY "NOT" OWN MORE THAN 10x its asset value (Materials, Equipment, etc) in Wallet Coins Amount.
 Should a business breach the 10x asset value. The Wallet Coin Amount is Capped and Coin Value over 10x amount is lost.
+A Business/Companies Credit worthiness is obtained on records of repayments made on previous loans.
 
 This using a HashGraph BlockChain Ledger.

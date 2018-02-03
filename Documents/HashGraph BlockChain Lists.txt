@@ -4,4 +4,5 @@ EACH HashGraph BlockChain is Encrypted and unreadable by any person.
 
 Coin HashGraph BlockChain
 Loan Lender Ledger HashGraph BlockChain
-Work HashGraph Blockchain
+Work HashGraph BlockChain
+B2B HashGraph BlockChain (B2B = Business to Business)

@@ -7,3 +7,7 @@ Encrypts Data into SHA256
 
 Encrypt.Decrypt.File.js
 Encrypts and Decrypts File Data so as unreadable by users.
+
+
+Core.js
+The Core Engine of the software.

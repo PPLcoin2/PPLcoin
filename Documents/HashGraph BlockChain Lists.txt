@@ -1,4 +1,4 @@
-EACH HashGraph BlockChain is Encrypted and unreadable.
+EACH HashGraph BlockChain is Encrypted and unreadable by any person.
 (see Java: File Encryption Code File)
 
 

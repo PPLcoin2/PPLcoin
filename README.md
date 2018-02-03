@@ -2,6 +2,15 @@
 
 Initial Concept v1.0
 
+
+DOES NOT HAVE ANY ADMINISTRATORS OR ADMINISTRATION WALLETS (UNLIKE PRESENT BLOCKCHAINS. Who's Admin Wallets can create more admin wallets, add assets, remove/delete assets, transfer assets, add wallets, remove/delete wallets, .. and much more ..).
+
+IS 100% OPEN SOURCE
+
+IS 100% PEER TO PEER using no servers or websites. EVERYTHING (all files, etc) is on the DEVICE used by the user.
+
+
+
 Bring Back Humanity Without Greed.  Changing Human Greed Into Working Together.
 
 A Peer to Peer ( P2P) HashGraph BlockChain Crypto Currency.

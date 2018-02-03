@@ -1,1 +1,44 @@
-To Be Updated.
+/**
+*  Work HashGraph BlockChain Structure
+*
+*  To Be Updated and subject to change.
+*
+*  Encrypted (see Java: File Encryption) Unreadable by user
+*  
+*  EACH RECORD = 78 bytes. (1 million records per day = 78 Mega bytes). 1 Year(365.25) @ 1 Million Records per day = 28.4895 Giga bytes
+*  !!! INTRODUCE SPLIT RECORDS AMONGST MINERS ALGORITHM ???
+*
+*
+*  || = Start of NEW Record
+*
+*  CoinUniqueID: SHA256(WalletAddressTo.WalletAddressFrom)
+*
+*  ValueA: Hours Worked
+*  ValueB: Minutes Worked
+*  ValueC: Worked or Verification (Worked=Number of Hours Worked SUBMITTED by Wallet, Verification=Verified by Company or other Wallets)
+*  ValueC: WalletID (WalletID who submitted data)
+*  ValueD: Proof Work
+*(Positive or Negative Number, Fail Verification = Add Minus 1 to ValueE. Pass Verification = Add Plus 1 to ValueE. >10 = Verified)
+*  ValueE: Description of Transaction
+*  ValueF: Message (optional message input from wallet)
+*
+*  DATESTAMP & TIMESTAMP = Universal Time
+*
+**/
+
+
+|DATESTAMP|TIMESTAMP|WorkUniqueID|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF|
+|DATESTAMP|TIMESTAMP|CoinUniqueID|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF|
+|DATESTAMP|TIMESTAMP|CoinUniqueID|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF|
+|DATESTAMP|TIMESTAMP|CoinUniqueID|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF|
+|DATESTAMP|TIMESTAMP|CoinUniqueID|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF|
+|DATESTAMP|TIMESTAMP|CoinUniqueID|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF|
+|DATESTAMP|TIMESTAMP|CoinUniqueID|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF|
+|DATESTAMP|TIMESTAMP|CoinUniqueID|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF|
+|DATESTAMP|TIMESTAMP|CoinUniqueID|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF|
+
+/**
+*
+* AND SO ON TILL (EOF).
+*
+**/

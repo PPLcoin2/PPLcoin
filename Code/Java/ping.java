@@ -1,7 +1,8 @@
 /**
 *  Requires Variable Changes....
 *  Pings IP address (miner) to see if online.
-*  Else Core.java to Ping Next in list.
+*  Else Core.java to parse next ip address in list to Ping.java
+*  Ping.java to return True or False if ip address is online.
 **/
 
 

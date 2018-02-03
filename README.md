@@ -17,5 +17,6 @@ Lenders and Loaners of COINS to other Wallets can Earn an EXTRA 1000 per week.
 Loaners earn a small amount of interest from the Lender on each repayment.
 Loaners and Lenders, loaned and earnt COINS also reset every week.
 YET. Loan amounts continue each week as do repayment amounts agreed.
+
 This using a HashGraph BlockChain Ledger.
 

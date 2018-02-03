@@ -1,1 +1,9 @@
 To Be Updated.
+
+
+SHA256.Encryption.js
+Encrypts Data into SHA256
+
+
+Encrypt.Decrypt.File.js
+Encrypts and Decrypts File Data so as unreadable by users.

@@ -3,7 +3,7 @@
 Initial Concept v1.0
 
 
-DOES NOT HAVE ANY ADMINISTRATORS OR ADMINISTRATION WALLETS (UNLIKE PRESENT BLOCKCHAINS. Who's Admin Wallets can create more admin wallets, add assets, remove/delete assets, transfer assets, add wallets, remove/delete wallets, .. and much more ..).
+DOES NOT HAVE ANY ADMINISTRATORS OR ADMINISTRATION WALLETS (UNLIKE PRESENT BLOCKCHAINS. Where Admin Wallets can create more admin wallets, add assets, remove/delete assets, transfer assets, add wallets, remove/delete wallets, .. and much more ..).
 
 IS 100% OPEN SOURCE
 

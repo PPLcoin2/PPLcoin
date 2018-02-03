@@ -1,9 +1,13 @@
 /**
 *  Coin HashGraph BlockChain Structure
 *
+*  To Be Updated and subject to change.
+*
 *  Encrypted (see Java: File Encryption) Unreadable by user
 *  
-*  To Be Updated and subject to change.
+*  EACH RECORD = 108 bytes. (1 million records per day = 108 Mega bytes). 1 Year(365.25) @ 1 Million Records per day = 39.447 Giga bytes
+*  !!! INTRODUCE SPLIT RECORDS AMONGST MINERS ALGORITHM ???
+*
 *
 *  || = Start of NEW Record
 *

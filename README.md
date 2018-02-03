@@ -20,3 +20,8 @@ YET. Loan amounts continue each week as do repayment amounts agreed.
 
 This using a HashGraph BlockChain Ledger.
 
+Work, Helping others, construction, production, environment, anything helping better humanity.
+This is done by Miners verifying companies and collegues input that a WALLET has worked X hour and X minutes.
+Of which a weekly league table is created showing Most to Least or selectable as Least to Most worked hours by a wallet.
+
+This using a HashGraph BlockChain Ledger.

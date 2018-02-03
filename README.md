@@ -1,5 +1,7 @@
 # PPLcoin
 
+Bring Back Humanity Without Greed.  Changing Human Greed Into Working Together.
+
 Initial Concept v1.0
 
 
@@ -9,9 +11,6 @@ IS 100% OPEN SOURCE
 
 IS 100% PEER TO PEER using no servers or websites. EVERYTHING (all files, etc) being on the DEVICE used by the user.
 
-
-
-Bring Back Humanity Without Greed.  Changing Human Greed Into Working Together.
 
 A Peer to Peer ( P2P) HashGraph BlockChain Crypto Currency.
 

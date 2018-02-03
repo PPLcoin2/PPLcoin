@@ -1,1 +1,39 @@
-To Be Updated.
+/**
+*  Coin HashGraph BlockChain Structure
+*
+*  Encrypted (see Java: File Encryption) Unreadable by user
+*  
+*  To Be Updated and subject to change.
+*
+*  || = Start of NEW Record
+*
+*  CoinUniqueID: SHA256(WalletAddressTo.WalletAddressFrom)
+*
+*  ValueA: Coin Wallet Balance
+*  ValueB: Rx or Tx or UniqueLedgerID(Rx=Receive Coins or Tx=Send Coins or UniqueLedgerID=UniqueLedgerID)
+*  ValueC: Amount (Amount of coins sent or received)
+*  ValueD: Proof Work
+*(Positive or Negative Number, Fail Verification = Add Minus 1 to ValueE. Pass Verification = Add Plus 1 to ValueE. >100 = Verified)
+*  ValueE: Description of Transaction
+*  ValueF: Message (optional message input from wallet)
+*
+*  DATESTAMP & TIMESTAMP = Universal Time
+*
+**/
+
+
+|DATESTAMP|TIMESTAMP|CoinUniqueID|WalletAddressTo|WalletAddressTo|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF|
+|DATESTAMP|TIMESTAMP|CoinUniqueID|WalletAddressTo|WalletAddressTo|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF|
+|DATESTAMP|TIMESTAMP|CoinUniqueID|WalletAddressTo|WalletAddressTo|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF|
+|DATESTAMP|TIMESTAMP|CoinUniqueID|WalletAddressTo|WalletAddressTo|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF|
+|DATESTAMP|TIMESTAMP|CoinUniqueID|WalletAddressTo|WalletAddressTo|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF|
+|DATESTAMP|TIMESTAMP|CoinUniqueID|WalletAddressTo|WalletAddressTo|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF|
+|DATESTAMP|TIMESTAMP|CoinUniqueID|WalletAddressTo|WalletAddressTo|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF|
+|DATESTAMP|TIMESTAMP|CoinUniqueID|WalletAddressTo|WalletAddressTo|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF|
+|DATESTAMP|TIMESTAMP|CoinUniqueID|WalletAddressTo|WalletAddressTo|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF|
+
+/**
+*
+* AND SO ON TILL (EOF).
+*
+**/

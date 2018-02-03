@@ -36,3 +36,14 @@ Coin Donations (without interest or payback) can be sent to other wallets that d
 Also Resets every week.
 
 This using a HashGraph BlockChain Ledger.
+
+B2B (Business to Business)
+Materials, Equipments, Assets, etc, etc.. HashGraph BlockChain.
+This works on similar principal of LOANERS & LENDERS Ledger.
+Where one business may tranfer Materials, Equipment, Assets, etc to another business on a loan & lender model.
+Else outright purchase may be used instead.
+Each Business has it's own WalletID.
+EACH BUSINESS MAY "NOT" OWN MORE THAN 10x its asset value (Materials, Equipment, etc) in Wallet Coins Amount.
+Should a business breach the 10x asset value. The Wallet Coin Amount is Capped and Coin Value over 10x amount is lost.
+
+This using a HashGraph BlockChain Ledger.

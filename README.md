@@ -7,7 +7,7 @@ DOES NOT HAVE ANY ADMINISTRATORS OR ADMINISTRATION WALLETS (UNLIKE PRESENT BLOCK
 
 IS 100% OPEN SOURCE
 
-IS 100% PEER TO PEER using no servers or websites. EVERYTHING (all files, etc) is on the DEVICE used by the user.
+IS 100% PEER TO PEER using no servers or websites. EVERYTHING (all files, etc) being on the DEVICE used by the user.
 
 
 

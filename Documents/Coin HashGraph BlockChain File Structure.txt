@@ -5,11 +5,12 @@
 *
 *  Encrypted (see Java: File Encryption) Unreadable by user
 *  
+*  EACH RECORD AS SHOWN BELOW, YET IN 'REALITY' LARGER.
 *  EACH RECORD = 108 bytes. (1 million records per day = 108 Mega bytes). 1 Year(365.25) @ 1 Million Records per day = 39.447 Giga bytes
 *  !!! INTRODUCE SPLIT RECORDS AMONGST MINERS ALGORITHM ???
 *
 *
-*  || = Start of NEW Record
+*  || = END of Record
 *
 *  CoinUniqueID: SHA256(WalletAddressTo.WalletAddressFrom)
 *
@@ -26,15 +27,15 @@
 **/
 
 
-|DATESTAMP|TIMESTAMP|CoinUniqueID|WalletAddressTo|WalletAddressFrom|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF|
-|DATESTAMP|TIMESTAMP|CoinUniqueID|WalletAddressTo|WalletAddressFrom|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF|
-|DATESTAMP|TIMESTAMP|CoinUniqueID|WalletAddressTo|WalletAddressFrom|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF|
-|DATESTAMP|TIMESTAMP|CoinUniqueID|WalletAddressTo|WalletAddressFrom|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF|
-|DATESTAMP|TIMESTAMP|CoinUniqueID|WalletAddressTo|WalletAddressFrom|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF|
-|DATESTAMP|TIMESTAMP|CoinUniqueID|WalletAddressTo|WalletAddressFrom|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF|
-|DATESTAMP|TIMESTAMP|CoinUniqueID|WalletAddressTo|WalletAddressFrom|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF|
-|DATESTAMP|TIMESTAMP|CoinUniqueID|WalletAddressTo|WalletAddressFrom|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF|
-|DATESTAMP|TIMESTAMP|CoinUniqueID|WalletAddressTo|WalletAddressFrom|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF|
+|DATESTAMP|TIMESTAMP|CoinUniqueID|WalletAddressTo|WalletAddressFrom|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF||
+|DATESTAMP|TIMESTAMP|CoinUniqueID|WalletAddressTo|WalletAddressFrom|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF||
+|DATESTAMP|TIMESTAMP|CoinUniqueID|WalletAddressTo|WalletAddressFrom|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF||
+|DATESTAMP|TIMESTAMP|CoinUniqueID|WalletAddressTo|WalletAddressFrom|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF||
+|DATESTAMP|TIMESTAMP|CoinUniqueID|WalletAddressTo|WalletAddressFrom|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF||
+|DATESTAMP|TIMESTAMP|CoinUniqueID|WalletAddressTo|WalletAddressFrom|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF||
+|DATESTAMP|TIMESTAMP|CoinUniqueID|WalletAddressTo|WalletAddressFrom|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF||
+|DATESTAMP|TIMESTAMP|CoinUniqueID|WalletAddressTo|WalletAddressFrom|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF||
+|DATESTAMP|TIMESTAMP|CoinUniqueID|WalletAddressTo|WalletAddressFrom|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF||
 
 /**
 *

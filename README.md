@@ -23,5 +23,7 @@ This using a HashGraph BlockChain Ledger.
 Work, Helping others, construction, production, environment, anything helping better humanity.
 This is done by Miners verifying companies and collegues input that a WALLET has worked X hours and X minutes.
 Of which a weekly league table is created showing Most to Least or selectable as Least to Most worked hours by a wallet.
+Coin Donations (without interest or payback) can be sent to other wallets that deem a wallet as a great asset and hard worker towards bettering humanity.
+Also Resets every week.
 
 This using a HashGraph BlockChain Ledger.

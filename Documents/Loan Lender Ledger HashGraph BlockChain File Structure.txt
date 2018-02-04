@@ -6,7 +6,7 @@
 *  Encrypted via SECRET KEY, as chosen by WALLET USER .. (see Java: File Encryption) Unreadable by user
 *  
 *  EACH RECORD AS SHOWN BELOW, YET IN 'REALITY' LARGER.
-*  EACH RECORD = 108 bytes. (1 million records per day = 108 Mega bytes). 1 Year(365.25) @ 1 Million Records per day = 39.447 Giga bytes
+*  
 *  !!! INTRODUCE SPLIT RECORDS AMONGST MINERS ALGORITHM ???
 *  EACH VALUE IN RECORD TO BE A SPECIFIED AMOUNT OF BYTES.
 *  E.G. DATESTAMP = 20180101 (1st January 2018). Therefore known as 8 bytes size.

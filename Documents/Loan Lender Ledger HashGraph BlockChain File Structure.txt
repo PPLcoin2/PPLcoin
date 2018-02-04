@@ -1,1 +1,47 @@
-To Be Updated.
+/**
+*  Loan / Lender Ledger HashGraph BlockChain Structure
+*
+*  To Be Updated and subject to change.
+*
+*  Encrypted via SECRET KEY, as chosen by WALLET USER .. (see Java: File Encryption) Unreadable by user
+*  
+*  EACH RECORD AS SHOWN BELOW, YET IN 'REALITY' LARGER.
+*  EACH RECORD = 108 bytes. (1 million records per day = 108 Mega bytes). 1 Year(365.25) @ 1 Million Records per day = 39.447 Giga bytes
+*  !!! INTRODUCE SPLIT RECORDS AMONGST MINERS ALGORITHM ???
+*  EACH VALUE IN RECORD TO BE A SPECIFIED AMOUNT OF BYTES.
+*  E.G. DATESTAMP = 20180101 (1st January 2018). Therefore known as 8 bytes size.
+*  E.G. MESSAGE & DESCRIPTION (ValueE & ValueF) MAX input size by user 50 characters. If < 50 characters, fill with unused symbol.
+*     unused symbol removed by java when being parsed to another java code or echoing to user 
+*
+*  || = END of Record
+*
+*  LedgerUniqueID: SHA256(LoanerWalletAddress.LenderWalletAddress)
+*
+*  ValueA: Agreed Loan Amount
+*  ValueB: Agreed Repayment Interest Rate
+*  ValueC: Agreed Weekly Repayment Amount (Deducted from Lenders Balance and Sent to Loaners Wallet upon each Weekly Reset)
+*  ValueD: Proof Work
+*(Positive or Negative Number, Fail Verification = Add Minus 1 to ValueE. Pass Verification = Add Plus 1 to ValueE. >100 = Verified)
+*  ValueE: Description of Transaction
+*  ValueF: Message (optional message input from wallet)
+*
+*  DATESTAMP & TIMESTAMP = Universal Time
+*
+**/
+
+
+|DATESTAMP|TIMESTAMP|CoinUniqueID|LoanerWalletAddress|LendersWalletAddress|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF||
+|DATESTAMP|TIMESTAMP|CoinUniqueID|LoanerWalletAddress|LendersWalletAddress|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF||
+|DATESTAMP|TIMESTAMP|CoinUniqueID|LoanerWalletAddress|LendersWalletAddress|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF||
+|DATESTAMP|TIMESTAMP|CoinUniqueID|LoanerWalletAddress|LendersWalletAddress|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF||
+|DATESTAMP|TIMESTAMP|CoinUniqueID|LoanerWalletAddress|LendersWalletAddress|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF||
+|DATESTAMP|TIMESTAMP|CoinUniqueID|LoanerWalletAddress|LendersWalletAddress|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF||
+|DATESTAMP|TIMESTAMP|CoinUniqueID|LoanerWalletAddress|LendersWalletAddress|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF||
+|DATESTAMP|TIMESTAMP|CoinUniqueID|LoanerWalletAddress|LendersWalletAddress|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF||
+|DATESTAMP|TIMESTAMP|CoinUniqueID|LoanerWalletAddress|LendersWalletAddress|ValueA|ValueB|ValueC|ValueD|ValueE|ValueF||
+
+/**
+*
+* AND SO ON TILL (EOF).
+*
+**/

@@ -20,7 +20,7 @@
 *  ValueA: Agreed Loan Amount
 *  ValueB: Agreed Repayment Interest Rate
 *  ValueC: Agreed Weekly Repayment Amount (Deducted from Lenders Balance and Sent to Loaners Wallet upon each Weekly Reset)
-*          If balance < Weekly Repayment. Sent Balance Amount.
+*          If balance < Weekly Repayment. Send Balance Amount.
 *  ValueD: Current Owed Balance by Lender
 *  ValueE: Proof Work
 *(Positive or Negative Number, Fail Verification = Add Minus 1 to ValueE. Pass Verification = Add Plus 1 to ValueE. >100 = Verified)

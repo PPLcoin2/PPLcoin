@@ -23,7 +23,7 @@
 *          If balance < Weekly Repayment. Send Balance Amount.
 *  ValueD: Current Owed Balance by Lender
 *  ValueE: Proof Work
-*(Positive or Negative Number, Fail Verification = Add Minus 1 to ValueE. Pass Verification = Add Plus 1 to ValueE. >100 = Verified)
+*(Positive or Negative Number, Fail Verification = Add Minus 1 to ValueE. Pass Verification = Add Plus 1 to ValueE. >10 = Verified)
 *  ValueF: Description of Transaction
 *  ValueG: Message (optional message input from wallet)
 *

@@ -6,6 +6,7 @@ Initial Concept v1.0
 
 
 DOES NOT HAVE ANY ADMINISTRATORS OR ADMINISTRATION WALLETS (UNLIKE PRESENT BLOCKCHAINS. Where Admin Wallets can create more admin wallets, add assets, remove/delete assets, transfer assets, add wallets, remove/delete wallets, .. and much more ..).
+FACTS SOURCE: https://www.multichain.com/developers/json-rpc-api/  List of ADMIN WALLET COMMANDS AND CONTROLS OF BLOCKCHAIN
 
 IS 100% OPEN SOURCE
 

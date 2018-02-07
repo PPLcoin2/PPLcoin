@@ -56,7 +56,7 @@ This using a HashGraph BlockChain Ledger.
 
 Charity,
 This works on similar principal of LOANERS & LENDERS Ledger.
-Where a charity may loan Materials, Equipment, Assets, etc to another business on a loan & lender model.
+Where a busines may loan Materials, Equipment, Assets, etc to a charity on a loan & lender model.
 Else outright purchase may be used instead.
 Each Charity has it's own WalletID.
 EACH CHARITY MAY "NOT" OWN MORE THAN 10x its asset value (Materials, Equipment, etc) in Wallet Coins Amount.
